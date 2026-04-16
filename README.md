@@ -7,15 +7,15 @@ Source Code: All_datas.ipynb, data1_in_details.ipynb
 ## 🛠️ Engineering Process (ETL)
 The input data was provided in three separate datasets (DATA1, DATA2, DATA3), each containing "noisy" records. My engineering workflow included:
 
-Data Reconciliation: Implementing a matching algorithm to identify unique users across different IDs using email and phone normalization.
+- Data Reconciliation: Implementing a matching algorithm to identify unique users across different IDs using email and phone normalization.
 
-Deduplication: Removing redundant records while preserving transaction integrity.
+- Deduplication: Removing redundant records while preserving transaction integrity.
 
-Entity Resolution (Aliases): Identifying that a single customer could have multiple system IDs. These are grouped and reported as an array of IDs.
+- Entity Resolution (Aliases): Identifying that a single customer could have multiple system IDs. These are grouped and reported as an array of IDs.
 
 Relational Modeling: Creating a Star Schema in Power BI, connecting Users, Books, and Orders for efficient querying.
 ## 📊 Business Insights (Dashboard)
-- The final BI Dashboard consists of three independent views (one for each dataset) and tracks the following key performance indicators:
+The final BI Dashboard consists of three independent views (one for each dataset) and tracks the following key performance indicators:
 
 - Financials: Daily revenue trends and Top 5 high-income days (Format: YYYY-MM-dd).
 
