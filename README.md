@@ -13,7 +13,7 @@ The input data was provided in three separate datasets (DATA1, DATA2, DATA3), ea
 
 - Entity Resolution (Aliases): Identifying that a single customer could have multiple system IDs. These are grouped and reported as an array of IDs.
 
-Relational Modeling: Creating a Star Schema in Power BI, connecting Users, Books, and Orders for efficient querying.
+- Relational Modeling: Creating a Star Schema in Power BI, connecting Users, Books, and Orders for efficient querying.
 ## 📊 Business Insights (Dashboard)
 The final BI Dashboard consists of three independent views (one for each dataset) and tracks the following key performance indicators:
 
