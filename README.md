@@ -1,7 +1,7 @@
 # Book Sales Analytics Project
 This project focuses on building a robust data pipeline and a professional BI dashboard to analyze book sales from multiple sources. The core challenge involved data reconciliation, entity resolution (handling aliases), and delivering actionable business insights.
 ## 🔗 Project Links
-Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNmNiZGZkNWMtMDQxOS00MmVjLTlhYzQtNDNkYzcwMDNhMWQ3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9 
+Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNmNiZGZkNWMtMDQxOS00MmVjLTlhYzQtNDNkYzcwMDNhMWQ3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=7d95b990b8935e501734
 
 Source Code: All_datas.ipynb, data1_in_details.ipynb
 ## 🛠️ Engineering Process (ETL)
