@@ -25,7 +25,8 @@ Inventory: Identification of unique author sets and the most popular authors bas
 
 VIP Customers: Identification of the "Best Buyer" including all their known aliases (array of IDs).
 ## Dashboard Preview
-<img width="962" height="539" alt="image" src="https://github.com/user-attachments/assets/6b122ed1-8b41-492d-8dd8-472b535ab7cc" />
+<img width="962" height="539" alt="image" src="https://github.com/user-attachments/assets/6b122ed1-8b41-492d-8dd8-472b535ab7cc"/>
+
 ## 🚀 Technologies Used
 Python (Pandas): For heavy data lifting and cleaning, preprocessing.
 
