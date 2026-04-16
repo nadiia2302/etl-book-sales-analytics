@@ -15,15 +15,15 @@ Entity Resolution (Aliases): Identifying that a single customer could have multi
 
 Relational Modeling: Creating a Star Schema in Power BI, connecting Users, Books, and Orders for efficient querying.
 ## 📊 Business Insights (Dashboard)
-The final BI Dashboard consists of three independent views (one for each dataset) and tracks the following key performance indicators:
+- The final BI Dashboard consists of three independent views (one for each dataset) and tracks the following key performance indicators:
 
-Financials: Daily revenue trends and Top 5 high-income days (Format: YYYY-MM-dd).
+- Financials: Daily revenue trends and Top 5 high-income days (Format: YYYY-MM-dd).
 
-Audience: Total count of unique users after deduplication.
+- Audience: Total count of unique users after deduplication.
 
-Inventory: Identification of unique author sets and the most popular authors based on sales volume.
+- Inventory: Identification of unique author sets and the most popular authors based on sales volume.
 
-VIP Customers: Identification of the "Best Buyer" including all their known aliases (array of IDs).
+- VIP Customers: Identification of the "Best Buyer" including all their known aliases (array of IDs).
 ## Dashboard Preview
 <img width="962" height="539" alt="image" src="https://github.com/user-attachments/assets/6b122ed1-8b41-492d-8dd8-472b535ab7cc"/>
 
