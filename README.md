@@ -25,7 +25,8 @@ The final BI Dashboard consists of three independent views (one for each dataset
 
 - VIP Customers: Identification of the "Best Buyer" including all their known aliases (array of IDs).
 ## Dashboard Preview
-<img width="1123" height="631" alt="image" src="https://github.com/user-attachments/assets/4a1adba4-ad16-49b0-a33c-d7d515fbc5a0" />
+<img width="1282" height="721" alt="image" src="https://github.com/user-attachments/assets/f5782f6f-cfaf-4bef-8933-a99ac0ab7125" />
+
 
 
 ## 🚀 Technologies Used
